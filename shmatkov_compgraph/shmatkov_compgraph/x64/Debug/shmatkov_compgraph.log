@@ -1,0 +1,3 @@
+﻿  shmatkov_compgraph.cpp
+C:\Users\admin\source\repos\shmatkov_compgraph\shmatkov_compgraph\shmatkov_compgraph.cpp(99,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  shmatkov_compgraph.vcxproj -> C:\Users\admin\source\repos\shmatkov_compgraph\x64\Debug\shmatkov_compgraph.exe
